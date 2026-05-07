@@ -1,6 +1,7 @@
 import type { Config } from "tailwindcss";
 
 const config: Config = {
+  darkMode: ["class"],
   content: [
     "./app/**/*.{ts,tsx}",
     "./components/**/*.{ts,tsx}",
@@ -9,22 +10,29 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        ink: "#0B1020",
-        mutedInk: "#667085",
-        brand: {
-          50: "#EEF2FF",
-          100: "#E0E7FF",
-          500: "#615FFF",
-          600: "#4F46E5",
-          700: "#4338CA"
+        border: "hsl(var(--border))",
+        input: "hsl(var(--input))",
+        ring: "hsl(var(--ring))",
+        background: "hsl(var(--background))",
+        foreground: "hsl(var(--foreground))",
+        primary: {
+          DEFAULT: "hsl(var(--primary))",
+          foreground: "hsl(var(--primary-foreground))"
+        },
+        muted: {
+          DEFAULT: "hsl(var(--muted))",
+          foreground: "hsl(var(--muted-foreground))"
+        },
+        card: {
+          DEFAULT: "hsl(var(--card))",
+          foreground: "hsl(var(--card-foreground))"
         }
       },
       boxShadow: {
-        soft: "0 18px 60px rgba(15, 23, 42, 0.08)"
+        soft: "0 12px 35px rgba(15, 23, 42, 0.08)"
       }
     }
   },
-  plugins: []
+  plugins: [require("tailwindcss-animate")]
 };
-
 export default config;
