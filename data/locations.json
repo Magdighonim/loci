@@ -1,0 +1,500 @@
+[
+  {
+    "location_id": "loc_001",
+    "business_name": "Bean District - City Center",
+    "category": "Coffee Shop",
+    "latitude": 30.0739,
+    "longitude": 31.3469,
+    "address": "City Center District, Cairo, Egypt",
+    "city": "Cairo",
+    "state": "Cairo",
+    "estimated_visits_daily": 870,
+    "estimated_visits_weekly": 6100,
+    "estimated_visits_monthly": 26400,
+    "median_visit_duration": 31,
+    "peak_visit_hour": 12,
+    "visitor_home_zip_codes": [
+      {
+        "zip": "11765",
+        "visits": 7200,
+        "lat": 30.0626,
+        "lng": 31.3444
+      },
+      {
+        "zip": "11771",
+        "visits": 5300,
+        "lat": 30.0861,
+        "lng": 31.3302
+      },
+      {
+        "zip": "11835",
+        "visits": 4100,
+        "lat": 30.1056,
+        "lng": 31.3601
+      },
+      {
+        "zip": "11371",
+        "visits": 2800,
+        "lat": 30.0734,
+        "lng": 31.3062
+      }
+    ],
+    "competitor_locations": [
+      "loc_002",
+      "loc_003",
+      "loc_006"
+    ],
+    "month_over_month_change": 12.4,
+    "year_over_year_change": 18.2,
+    "trade_area_radius_km": 4.2,
+    "trend": [
+      710,
+      740,
+      760,
+      820,
+      810,
+      850,
+      870,
+      900,
+      920,
+      880,
+      940,
+      970
+    ],
+    "peak_hours": [
+      {
+        "hour": "7 AM",
+        "visits": 120
+      },
+      {
+        "hour": "9 AM",
+        "visits": 420
+      },
+      {
+        "hour": "12 PM",
+        "visits": 760
+      },
+      {
+        "hour": "3 PM",
+        "visits": 610
+      },
+      {
+        "hour": "6 PM",
+        "visits": 540
+      },
+      {
+        "hour": "9 PM",
+        "visits": 240
+      }
+    ]
+  },
+  {
+    "location_id": "loc_002",
+    "business_name": "Roast Lab - Nasr City",
+    "category": "Coffee Shop",
+    "latitude": 30.0621,
+    "longitude": 31.3402,
+    "address": "Nasr City, Cairo, Egypt",
+    "city": "Cairo",
+    "state": "Cairo",
+    "estimated_visits_daily": 650,
+    "estimated_visits_weekly": 4550,
+    "estimated_visits_monthly": 19700,
+    "median_visit_duration": 26,
+    "peak_visit_hour": 10,
+    "visitor_home_zip_codes": [
+      {
+        "zip": "11765",
+        "visits": 5200,
+        "lat": 30.0626,
+        "lng": 31.3444
+      },
+      {
+        "zip": "11835",
+        "visits": 3900,
+        "lat": 30.1056,
+        "lng": 31.3601
+      },
+      {
+        "zip": "11371",
+        "visits": 2400,
+        "lat": 30.0734,
+        "lng": 31.3062
+      }
+    ],
+    "competitor_locations": [
+      "loc_001",
+      "loc_003"
+    ],
+    "month_over_month_change": 7.8,
+    "year_over_year_change": 11.1,
+    "trade_area_radius_km": 3.4,
+    "trend": [
+      540,
+      560,
+      575,
+      590,
+      610,
+      620,
+      635,
+      650,
+      645,
+      655,
+      662,
+      650
+    ],
+    "peak_hours": [
+      {
+        "hour": "7 AM",
+        "visits": 180
+      },
+      {
+        "hour": "9 AM",
+        "visits": 610
+      },
+      {
+        "hour": "12 PM",
+        "visits": 570
+      },
+      {
+        "hour": "3 PM",
+        "visits": 430
+      },
+      {
+        "hour": "6 PM",
+        "visits": 390
+      },
+      {
+        "hour": "9 PM",
+        "visits": 170
+      }
+    ]
+  },
+  {
+    "location_id": "loc_003",
+    "business_name": "Daily Grind - Heliopolis",
+    "category": "Coffee Shop",
+    "latitude": 30.0915,
+    "longitude": 31.3224,
+    "address": "Heliopolis, Cairo, Egypt",
+    "city": "Cairo",
+    "state": "Cairo",
+    "estimated_visits_daily": 540,
+    "estimated_visits_weekly": 3780,
+    "estimated_visits_monthly": 16400,
+    "median_visit_duration": 24,
+    "peak_visit_hour": 18,
+    "visitor_home_zip_codes": [
+      {
+        "zip": "11371",
+        "visits": 5500,
+        "lat": 30.0734,
+        "lng": 31.3062
+      },
+      {
+        "zip": "11835",
+        "visits": 4200,
+        "lat": 30.1056,
+        "lng": 31.3601
+      },
+      {
+        "zip": "11771",
+        "visits": 2300,
+        "lat": 30.0861,
+        "lng": 31.3302
+      }
+    ],
+    "competitor_locations": [
+      "loc_001",
+      "loc_002",
+      "loc_006"
+    ],
+    "month_over_month_change": -2.6,
+    "year_over_year_change": 4.5,
+    "trade_area_radius_km": 2.9,
+    "trend": [
+      560,
+      555,
+      548,
+      545,
+      540,
+      535,
+      532,
+      528,
+      530,
+      536,
+      542,
+      540
+    ],
+    "peak_hours": [
+      {
+        "hour": "7 AM",
+        "visits": 90
+      },
+      {
+        "hour": "9 AM",
+        "visits": 260
+      },
+      {
+        "hour": "12 PM",
+        "visits": 390
+      },
+      {
+        "hour": "3 PM",
+        "visits": 440
+      },
+      {
+        "hour": "6 PM",
+        "visits": 580
+      },
+      {
+        "hour": "9 PM",
+        "visits": 310
+      }
+    ]
+  },
+  {
+    "location_id": "loc_004",
+    "business_name": "Fresh Basket - Maadi",
+    "category": "Grocery",
+    "latitude": 29.9602,
+    "longitude": 31.2569,
+    "address": "Maadi, Cairo, Egypt",
+    "city": "Cairo",
+    "state": "Cairo",
+    "estimated_visits_daily": 1250,
+    "estimated_visits_weekly": 8750,
+    "estimated_visits_monthly": 38200,
+    "median_visit_duration": 38,
+    "peak_visit_hour": 19,
+    "visitor_home_zip_codes": [
+      {
+        "zip": "11431",
+        "visits": 12500,
+        "lat": 29.9608,
+        "lng": 31.2502
+      },
+      {
+        "zip": "11432",
+        "visits": 8200,
+        "lat": 29.9823,
+        "lng": 31.2721
+      },
+      {
+        "zip": "11728",
+        "visits": 4700,
+        "lat": 29.9431,
+        "lng": 31.282
+      }
+    ],
+    "competitor_locations": [
+      "loc_005"
+    ],
+    "month_over_month_change": 4.1,
+    "year_over_year_change": 9.7,
+    "trade_area_radius_km": 5.1,
+    "trend": [
+      1100,
+      1120,
+      1150,
+      1180,
+      1195,
+      1210,
+      1230,
+      1240,
+      1275,
+      1260,
+      1255,
+      1250
+    ],
+    "peak_hours": [
+      {
+        "hour": "7 AM",
+        "visits": 170
+      },
+      {
+        "hour": "9 AM",
+        "visits": 310
+      },
+      {
+        "hour": "12 PM",
+        "visits": 520
+      },
+      {
+        "hour": "3 PM",
+        "visits": 650
+      },
+      {
+        "hour": "6 PM",
+        "visits": 930
+      },
+      {
+        "hour": "9 PM",
+        "visits": 740
+      }
+    ]
+  },
+  {
+    "location_id": "loc_005",
+    "business_name": "Urban Mart - Maadi",
+    "category": "Grocery",
+    "latitude": 29.9699,
+    "longitude": 31.2616,
+    "address": "Maadi Corniche, Cairo, Egypt",
+    "city": "Cairo",
+    "state": "Cairo",
+    "estimated_visits_daily": 980,
+    "estimated_visits_weekly": 6860,
+    "estimated_visits_monthly": 30100,
+    "median_visit_duration": 34,
+    "peak_visit_hour": 20,
+    "visitor_home_zip_codes": [
+      {
+        "zip": "11431",
+        "visits": 9300,
+        "lat": 29.9608,
+        "lng": 31.2502
+      },
+      {
+        "zip": "11432",
+        "visits": 7200,
+        "lat": 29.9823,
+        "lng": 31.2721
+      },
+      {
+        "zip": "11728",
+        "visits": 3000,
+        "lat": 29.9431,
+        "lng": 31.282
+      }
+    ],
+    "competitor_locations": [
+      "loc_004"
+    ],
+    "month_over_month_change": 9.2,
+    "year_over_year_change": 16.4,
+    "trade_area_radius_km": 4.7,
+    "trend": [
+      820,
+      835,
+      850,
+      870,
+      895,
+      910,
+      930,
+      950,
+      965,
+      975,
+      985,
+      980
+    ],
+    "peak_hours": [
+      {
+        "hour": "7 AM",
+        "visits": 120
+      },
+      {
+        "hour": "9 AM",
+        "visits": 270
+      },
+      {
+        "hour": "12 PM",
+        "visits": 440
+      },
+      {
+        "hour": "3 PM",
+        "visits": 560
+      },
+      {
+        "hour": "6 PM",
+        "visits": 790
+      },
+      {
+        "hour": "9 PM",
+        "visits": 820
+      }
+    ]
+  },
+  {
+    "location_id": "loc_006",
+    "business_name": "North Bean - Heliopolis",
+    "category": "Coffee Shop",
+    "latitude": 30.1017,
+    "longitude": 31.3431,
+    "address": "Sheraton, Heliopolis, Cairo, Egypt",
+    "city": "Cairo",
+    "state": "Cairo",
+    "estimated_visits_daily": 430,
+    "estimated_visits_weekly": 3010,
+    "estimated_visits_monthly": 13200,
+    "median_visit_duration": 21,
+    "peak_visit_hour": 13,
+    "visitor_home_zip_codes": [
+      {
+        "zip": "11835",
+        "visits": 5400,
+        "lat": 30.1056,
+        "lng": 31.3601
+      },
+      {
+        "zip": "11771",
+        "visits": 2600,
+        "lat": 30.0861,
+        "lng": 31.3302
+      },
+      {
+        "zip": "11371",
+        "visits": 1400,
+        "lat": 30.0734,
+        "lng": 31.3062
+      }
+    ],
+    "competitor_locations": [
+      "loc_001",
+      "loc_003"
+    ],
+    "month_over_month_change": 3.6,
+    "year_over_year_change": 6.0,
+    "trade_area_radius_km": 2.6,
+    "trend": [
+      390,
+      395,
+      398,
+      405,
+      410,
+      412,
+      420,
+      425,
+      428,
+      432,
+      435,
+      430
+    ],
+    "peak_hours": [
+      {
+        "hour": "7 AM",
+        "visits": 80
+      },
+      {
+        "hour": "9 AM",
+        "visits": 210
+      },
+      {
+        "hour": "12 PM",
+        "visits": 390
+      },
+      {
+        "hour": "3 PM",
+        "visits": 310
+      },
+      {
+        "hour": "6 PM",
+        "visits": 280
+      },
+      {
+        "hour": "9 PM",
+        "visits": 130
+      }
+    ]
+  }
+]
